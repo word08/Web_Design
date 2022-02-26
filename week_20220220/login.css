@@ -1,0 +1,10 @@
+p.ex1 {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+  }
+body{
+    text-align: center;
+}
+input{
+    text-align: center;
+}

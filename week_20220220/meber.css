@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+  
+th {
+    height: 70px;
+}
+div{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
