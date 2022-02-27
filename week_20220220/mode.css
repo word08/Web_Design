@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+input{
+    display:flex ;
+    justify-self:center;
+    align-content: center;
+}
+type.password{
+    display:flex ;
+    justify-content:center;
+    align-content: center;
+}
