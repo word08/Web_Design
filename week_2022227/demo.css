@@ -1,0 +1,12 @@
+#title{
+    
+    font-size:60px ;
+    border: 1px solid black;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sty{
+    border: 1px solid blue;
+}

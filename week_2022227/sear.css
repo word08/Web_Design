@@ -1,0 +1,20 @@
+#gmail{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}
+.google{
+    font-size: 30px;
+    margin-top: 20px;
+    display: flex;
+    margin-bottom: 5px;
+    justify-content: center;
+    align-content: center;
+    border: 10px;
+  
+}
+.ti{
+    display: flex;
+    align-content: flex-end;
+    justify-content: end;
+}

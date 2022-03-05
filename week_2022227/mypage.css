@@ -1,0 +1,46 @@
+#me{
+    
+    display: flex;
+    justify-items: space-between;
+    align-items: center;
+    margin-top:-5px ;
+
+}
+.tr{
+    display: flex;
+    justify-content: end;
+    margin-top: -10px;
+   
+}
+#title{
+    font-size:30px ;
+    display: flex;
+    justify-content: center;
+}
+#sty{
+    display: flex;
+    justify-content: center;
+    margin-top:10px ;
+    justify-content: space-evenly;
+    font-size: 20px;
+    
+ 
+}
+.item{
+    border:5px inset ;
+    margin:50px ;
+    font-size: 30px;
+    
+}
+#to{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.item_to{
+    font-size: 20px;
+    justify-items: center;
+    align-items: center;
+    
+}
