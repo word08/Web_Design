@@ -1,17 +1,14 @@
 
-#me{
-    
-    display: flex;
-    justify-items: space-between;
-    align-content: center;
-    margin-top:-5px ;
-
-}
-.tr{
+#gmail{
     display: flex;
     justify-content: end;
-    margin-top: -10px;
    
+}
+#google{
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+    align-content: center;
 }
 #title{
     font-size:30px ;
