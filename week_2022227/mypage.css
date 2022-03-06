@@ -1,0 +1,44 @@
+
+#gmail{
+    display: flex;
+    justify-content: end;
+   
+}
+#google{
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+    align-content: center;
+}
+#title{
+    font-size:30px ;
+    display: flex;
+    justify-content: center;
+}
+#sty{
+    display: flex;
+    justify-content: center;
+    margin-top:10px ;
+    justify-content: space-evenly;
+    font-size: 20px;
+    
+ 
+}
+.item{
+    border:5px inset ;
+    margin:50px ;
+    font-size: 30px;
+    
+}
+#to{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.item_to{
+    font-size: 20px;
+    justify-content: center;
+    align-content: center;
+    
+}
