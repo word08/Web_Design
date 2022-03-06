@@ -1,8 +1,9 @@
+
 #me{
     
     display: flex;
     justify-items: space-between;
-    align-items: center;
+    align-content: center;
     margin-top:-5px ;
 
 }
@@ -40,7 +41,7 @@
 }
 .item_to{
     font-size: 20px;
-    justify-items: center;
-    align-items: center;
+    justify-content: center;
+    align-content: center;
     
 }
