@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+tr{
+    text-align: center;
+}
+th{
+  background-color: rgb(181, 240, 237);
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
