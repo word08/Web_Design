@@ -1,0 +1,14 @@
+body{
+  margin: 0%;
+}
+.orange{
+background-color: rgb(213, 245, 222);
+color: rgb(221, 162, 162);
+}
+a{
+  color:rgb(221, 162, 162);
+  text-decoration:none;  
+}
+td{
+  text-align: center;
+}
